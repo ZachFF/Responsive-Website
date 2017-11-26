@@ -1,0 +1,22 @@
+@media only screen and (min-width:150px) and (max-width:600px){
+
+  .one-image{
+    width: 100%;
+    height: 500px;
+  }
+  .one-image img{
+    width: 100%;
+    height: 500px;
+  }
+  .two-image{
+    width: 100%;
+    height: 500px;
+
+  }
+  .two-image img{
+    float: left;
+    width: 100%;
+    height: 500px;
+  }
+
+}

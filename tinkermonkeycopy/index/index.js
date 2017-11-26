@@ -1,3 +1,4 @@
+
 var emailNode = document.getElementById('email-input')
 var button = document.getElementById('subscribe-button')
 var menu = document.getElementById('mobile-menu')
@@ -85,3 +86,4 @@ menu.addEventListener('click',(e)=>{
 
 
 })
+console.log(localStorage)
